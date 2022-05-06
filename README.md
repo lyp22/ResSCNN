@@ -6,16 +6,27 @@ Enviroment
 -----------
 
 python 3.7
+
 cudatoolkit 11.1
+
 pytorch 1.8
+
 minkowskiengine 0.5
+
 xlrd 1.2
+
 open3d
+
 easydict
+
 numpy
+
 scipy
+
 tensorboardX
+
 pandas
+
 tqdm
 
 Sample scale normalization
