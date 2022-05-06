@@ -4,6 +4,7 @@ A no-reference point cloud quality assessment method using the sparse convolutio
 
 Enviroment
 -----------
+
 python 3.7
 cudatoolkit 11.1
 pytorch 1.8
