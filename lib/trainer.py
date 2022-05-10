@@ -14,7 +14,7 @@ import pandas as pd
 from scipy.stats import pearsonr, spearmanr, kendalltau
 import xlrd
 from scipy.optimize import curve_fit
-from lib.logging import Logger
+from lib.Logging import Logger
 from tqdm import tqdm
 
 
