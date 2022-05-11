@@ -31,7 +31,11 @@ trainer_arg.add_argument('--test_file', type=str, default='./config/test.xlsx', 
 trainer_arg.add_argument('--train_path', type=str, default='./config/path.xlsx', help='file name and file path for training set')  
 trainer_arg.add_argument('--test_path', type=str, default='./config/path.xlsx', help='file name and file path for testing set')  
 
+To load the existing model, the related parameter in config.py is:  
 
+misc_arg.add_argument('--resume', type=str, default='checkpoints/test_checkpoint-LS.pth', help='path for loading the checkpoint')  
+
+ps: test_checkpoint-LS.pth is trained on LS-PCQA dataset.
 
 Bibtex
 -----------
