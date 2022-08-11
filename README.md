@@ -44,7 +44,7 @@ If you use this code please cite the paper
 "Yipeng Liu, Yang Qi, Yiling Xu, Le Yang, "Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric", ACM Transactions on Multimedia
 Computing Communications and Applications, 2022."
 
-@article{liu2021LSPCQA,  
+@article{Liu2022LSPCQA,  
     title={Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric},  
     author={Yipeng Liu and Yang Qi and Yiling Xu and Le Yang},  
     journal={ACM Transactions on Multimedia Computing Communications and Applications.},  
