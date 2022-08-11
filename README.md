@@ -46,7 +46,7 @@ Computing Communications and Applications, 2022."
 
 @article{Liu2022ResSCNN,  
     title={Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric},  
-    author={Yipeng Liu and Yang Qi and Yiling Xu and Le Yang},  
+    author={Yipeng Liu and Qi Yang and Yiling Xu and Le Yang},  
     journal={ACM Transactions on Multimedia Computing Communications and Applications.},  
     year={2022}  
 }
