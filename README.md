@@ -44,7 +44,7 @@ We establish a large-scale point cloud quality assessment dataset named LS-PCQA 
 
 Link for reference point clouds: [BaiduNetDisk](https://pan.baidu.com/s/1lGB3ZGy2e6h080ItxruPYQ?pwd=4dha) [OneDrive](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuyipeng_sjtu_edu_cn/EWPixQDje2BIp_nL-6gx4qsB9LGgafD_qPpzfrzw5lz79A?e=jm5X6u)
 
-For a quick test, we supply 930 distorted samples with accurate MOS.
+930 distorted samples with accurate MOS are supplied.
 Link: [BaiduNetDisk](https://pan.baidu.com/s/1yhyn3PZzpnuokCqZeRe0XQ?pwd=3uw3) [OneDrive](https://sjtueducn-my.sharepoint.com/:f:/g/personal/liuyipeng_sjtu_edu_cn/Et1MMnF1JHhJiWR5Q1JoJBABlPLtBwt1oHheB4fkUK-hGw?e=e11tBG)
 
 Link for whole dataset with generated pseudo MOS: [BaiduNetDisk](https://pan.baidu.com/s/1twG77mYdy4Knm0RpFHhqsA?pwd=garj) [OneDrive](https://sjtueducn-my.sharepoint.com/:f:/g/personal/liuyipeng_sjtu_edu_cn/EmZV4in-Nm1Pj2wPOi2DuxQBwBMlamLVLMxRZh8aPonf2Q?e=KQjT1o)
