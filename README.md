@@ -40,7 +40,7 @@ ps: test_checkpoint-LS.pth is trained on LS-PCQA dataset.
 
 Large-scale Point Cloud Quality Assessment Dataset (LS-PCQA)
 -----------
-We establish a large-scale point cloud quality assessment dataset named LS-PCQA includes 104 reference point clouds and more than 22,000 distorted samples. The details can be found at [our website](http://smt.sjtu.edu.cn) and our paper (Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric).
+We establish a large-scale point cloud quality assessment dataset named LS-PCQA includes 104 reference point clouds and more than 22,000 distorted samples. The details can be found in [our website](http://smt.sjtu.edu.cn) and our paper (Point Cloud Quality Assessment: Dataset Construction and Learning-based No-Reference Metric).
 
 Link for reference point clouds: [BaiduNetDisk](https://pan.baidu.com/s/1lGB3ZGy2e6h080ItxruPYQ?pwd=4dha) [OneDrive](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuyipeng_sjtu_edu_cn/EWPixQDje2BIp_nL-6gx4qsB9LGgafD_qPpzfrzw5lz79A?e=jm5X6u)
 
