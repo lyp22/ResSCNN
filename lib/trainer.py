@@ -278,11 +278,11 @@ class Trainer(ResSCNNTrainer):
     compare2 = read_xlrd(self.config.test_file)
 
     mos = []
-    for y in compare1:
+    for y in compare2:
       mos.append(y[1])
 
     pred = []
-    for y in compare2:
+    for y in compare1:
       pred.append(y[1])
 
     _, _, pred = logistic_5_fitting_no_constraint(pred, mos)
