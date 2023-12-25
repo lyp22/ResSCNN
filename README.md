@@ -20,6 +20,7 @@ tqdm
 
 Sample scale normalization
 -----------
+The maximum edge of the bounding box for input point cloud is required to be normalized to a uniform scale.
 **To reproduce the experiment results in the paper, the xyz coordinates of training samples are required to be normalized into 0-2000 (or 11-bit) for the voxel size setting of 5.**
 
 Usage
